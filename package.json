@@ -37,7 +37,11 @@
 
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/salucian/Modern-JazzNight-VSCode-Color-Theme.git"
+    },
+
+    "bugs": {
+        "url": "https://github.com/salucian/Modern-JazzNight-VSCode-Color-Theme/issues"
     },
     "contributes": {
         "themes": [
