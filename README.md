@@ -1,5 +1,5 @@
 # Modern JazzNight
-**The first theme color from the 'Night in the city' collection, it uses a combination of low contrast blue's to give you the feeling of a late chill night in a jazz bar while you are at home. At least we hope so...**
+**The first theme color from the 'Night in the city' collection, it uses a combination of low contrast blues to give you the feeling of a late chill night in a jazz bar while you are at home. At least we hope so...**
 
 ![First Preview for editor](https://raw.githubusercontent.com/salucian/Modern-JazzNight-VSCode-Color-Theme/main/images/Modern%20Jazznight%201.png?token=AQSC2DWR4OGG4MQWN5JVOGTAQWWAM)   
 

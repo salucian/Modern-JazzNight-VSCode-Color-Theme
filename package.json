@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "StefanLucian",
     "engines": {
-        "vscode": "^1.55.0"
+        "vscode": "^0.10.5"
     },
     "categories": [
         "Themes"
