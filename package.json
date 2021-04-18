@@ -1,0 +1,51 @@
+{
+    "name": "modern-jazznight",
+    "displayName": "Modern JazzNight",
+    "description": "The first theme color from the 'Night in the city' collection, it uses a combination of low contrast blues to give you the feeling of a late chill night in a jazz bar while you are at home. At least we hope so.",
+    "version": "0.0.1",
+    "publisher": "Stefan Lucian",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Stefan Lucian",
+        "theme",
+        "color-theme",
+        "dark",
+        "Dark-theme",
+        "Modern",
+        "Jazz Night",
+        "blue",
+        "purple",
+        "orange",
+        "coffee",
+        "color-theme",
+        "relaxing",
+        "mood",
+        "red-brown",
+        "cookie-brown"
+    ],
+    "galleryBanner": {
+        "color": "#0b0911",
+        "theme":"dark"
+    },
+
+    "icon": "images/icon.png",
+
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Modern JazzNight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Modern JazzNight-color-theme.json"
+            }
+        ]
+    }
+}
