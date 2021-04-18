@@ -3,7 +3,7 @@
     "displayName": "Modern JazzNight",
     "description": "The first theme color from the 'Night in the city' collection, it uses a combination of low contrast blues to give you the feeling of a late chill night in a jazz bar while you are at home. At least we hope so.",
     "version": "0.0.1",
-    "publisher": "Stefan Lucian",
+    "publisher": "StefanLucian",
     "engines": {
         "vscode": "^1.55.0"
     },
